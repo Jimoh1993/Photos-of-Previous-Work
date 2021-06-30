@@ -20,6 +20,17 @@
 ![image](https://user-images.githubusercontent.com/29201579/123979809-f1de0000-d9b8-11eb-84c2-8fd861181c6b.png)
 ![image](https://user-images.githubusercontent.com/29201579/123979861-fc989500-d9b8-11eb-9b08-d05e314bc8cd.png)
 
+# Healthcare Medical Imaging Project
+![image](https://user-images.githubusercontent.com/29201579/123980102-3073ba80-d9b9-11eb-90a9-01919e0592ed.png)
+
+![image](https://user-images.githubusercontent.com/29201579/123980149-39648c00-d9b9-11eb-8355-34a750a4fce2.png)
+![image](https://user-images.githubusercontent.com/29201579/123980185-3ff30380-d9b9-11eb-9525-fb0ea4664b50.png)
+![image](https://user-images.githubusercontent.com/29201579/123980207-44b7b780-d9b9-11eb-80ac-992a62bd60b5.png)
+![image](https://user-images.githubusercontent.com/29201579/123980236-497c6b80-d9b9-11eb-9fe6-4d8a771b21e2.png)
+![image](https://user-images.githubusercontent.com/29201579/123980267-4ed9b600-d9b9-11eb-9dda-1ca8a7ddeca3.png)
+![image](https://user-images.githubusercontent.com/29201579/123980282-5305d380-d9b9-11eb-9788-68778b1f05df.png)
+![image](https://user-images.githubusercontent.com/29201579/123980330-5c8f3b80-d9b9-11eb-82f3-cb3942cb103e.png)
+![image](https://user-images.githubusercontent.com/29201579/123980359-62851c80-d9b9-11eb-9214-84bbe9a35208.png)
 
 
 
